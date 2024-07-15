@@ -1,0 +1,61 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+/* .container{
+    width: 60%;
+    margin: 5rem 0rem 3rem 5rem;
+    align-items: center;
+    justify-content: center;
+
+ }
+
+ button, input{
+    width: 10rem;
+    margin: 1rem;
+    padding: 1rem 0;
+    border-radius: 15px;
+ }
+
+ button{
+    width: 3rem;
+ } */
+
+
+body {
+   text-align: center;
+}
+.btn{
+   height: 200px;
+   width: 200px;
+   border-radius: 30%;
+   border: 10px solid black;
+   margin: 1rem;
+}
+h1{
+   font-size: 50px;
+   margin-bottom: 30px;
+}
+
+.btn-container{
+   justify-content: center;
+   margin-top: 50px;
+
+}
+.Red{
+   background: red;
+}
+.Blue{
+   background: blue;
+}
+.Green{
+   background: green;
+}
+.Orange{
+   background: orange;
+}
+
+.flash{
+   background-color: rgb(235, 229, 229);
+}
